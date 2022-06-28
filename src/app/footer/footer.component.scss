@@ -38,61 +38,6 @@
     height:50%;
     opacity:0.6;
 }
-
-.ce
- {
-    position: absolute;
-    top: 50%;
-    left: 70%;
-    transform: translate(-50%, -50%);
-    color:rgba(0, 0, 88, 0.897);
-    font-size: 22px;
-    font-weight: bold;
-    
-  }
-  .ce1
- {
-    width:90px;
-   background-color:rgb(0, 0, 255);
-   height:3px;
-   position: absolute;
-    bottom: 220px;
-    right: 510px;
-    color:rgb(0, 0, 255);
- 
-  
- }
- .d1
- {
-    position: absolute;
-    bottom: 50px;
-    left: 940px;
-    font-size:25px;
-    color:black;
-    transform: translate(-50%, -50%);
- 
-
- }
- .but
-{
-    background-color:blue;
-    width:220px;
-    height:50px;
-    color:white;
-    border-radius: 20px;
-    font-size:20px;
-    margin:150px;
-    border:none;
-    position: absolute;
-    bottom:-100px;
-    left: 580px;
-}
-.but:hover
-{
-    background-color: rgba(0, 0, 255, 0.507);
-    color:rgb(240, 243, 240);
-
-}
 .in
 {
    color: #1b6698;
@@ -103,97 +48,10 @@
    bottom:50px;
 
 }
-.h2
-{
-    position:relative;
-    left:-10px;
-    bottom:50px;
-    background-color: blue;
-    height:3px;
-    width:100px;
-}
-.text1
-{
-    position:relative;
-    left:120px;
-    bottom:30px;
-    color:#1b6698;
-    font-size:20px;
-    font-family:Arial Narrow Bold;
-}
-.h3
-{
-    position:relative;
-    right:495px;
-    bottom:40px;
-    background-color: black;
-    height:3px;
-    width:90px;
-}
-.text2
-{
-    
-    font-size:18px;
-    color:black;
-    position:relative;
-    left:120px;
-    bottom:30px;
-    max-width:500px;
-}
-.text3
-{
-    color:#1b6698 ;
-}
-.im4
-{
-    position: relative;
-    left:600px;
-    bottom:260px;
-    width:400px;
-    height:250px;
 
-}
-.im5
-{
-    position: relative;
-    bottom:260px;
-    z-index:-1;
-
-}
-.text4
-{
-    position: relative;
-    left:820px;
-    bottom:1050px;
-    color: white;
-    font-size:33px;
-    font-family:Arial Narrow Bold;
-}
-.h4
-{
-    position: relative;
-    bottom:1070px;
-    left:200px;
-    background-color: black;
-    height:3px;
-    width:90px;
-}
-.text5
-{
-    color: white;
-    font-size:18px;
-    position: relative;
-    left:300px;
-
-}
-.hr1
-{
-    width:100%;
-
-}
 .marquee1
 {
     font-size: 15px;
-    color:red;
+    color:blue;
 
 }
